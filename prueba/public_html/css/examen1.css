@@ -1,0 +1,82 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 17-dic-2015, 12:44:34
+    Author     : dam1
+*/
+.fila1{
+    border:2px dotted red;
+    text-align:center;
+    background-color:#ffcc99;
+}
+.fondoGris{
+    background-color:#666666;
+    padding:10px;
+}
+.fondoNar{
+    background-color:orange;
+    padding:7px;
+}
+.fondoAzul{
+    background-color:#66ffff;
+    padding-left:13px;
+    padding-right:13px;
+    padding-top:13px;
+}
+.cuadroNar{
+    background-color:#ffcc66;
+    border:1px solid #66ffff;
+}
+.borde{
+    border-bottom:1px dashed black;
+}
+.fondoAzul1{
+    background-color:#66ffff;
+    padding-left:13px;
+    padding-right:13px;
+    padding-bottom:13px;
+}
+.fondo2{
+    background-color:#666666;
+    padding-top:1px;
+    padding-bottom:1px;
+}
+.cuadroNar2{
+    background-color:orange;
+    border-right:1px solid #666666;
+    border-bottom:1px solid orange;
+    height:200px;
+}
+.fondo3{
+    background-color:#666666;
+}
+.cuadroNar2Ult{
+   background-color:orange;
+   border-bottom:1px solid orange;
+   height:200px;
+}
+.cuadroNar2Seg{
+    background-color:orange;
+    border-bottom:1px dashed red;
+    border-right:1px solid #666666;
+    height:200px;
+}
+.cuadroNar2Ter{
+    overflow:scroll;
+    background-color:orange;
+    border-right:1px solid #666666;
+    border-bottom:1px solid orange;
+    height:200px;
+}
+.cuadroNar3{
+    background-color:orange;
+    height:100px;
+}
+.cuadroNar3Pri{
+    background-color:orange;
+    height:100px;
+    border-right:1px solid #666666;
+}
