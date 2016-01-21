@@ -16,6 +16,7 @@ public class Ejerciciogithub {
      */
     public static void main(String[] args) {
         System.out.println("HOLAAa");
+        System.out.println("Hola Mundo");
         // TODO code application logic here
     }
     
